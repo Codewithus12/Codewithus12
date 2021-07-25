@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Codewithus12
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently running CodeWithUs Community
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 Mail me at codewithus12@gmail.com
 
-<!---
-Codewithus12/Codewithus12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align="left">CodeWithUs Community</h1>
+<h3>CodeWithUs​ is a ​community that promotes ​diversity in tech and connects students who want to learn, contribute and grow.
+We are Promoting and fostering the Open Source and Coding culture among the students, who are willing to create an impact in society through their skills.<h3>
+<h3 align="left">Connect here:</h3>
+<p align="left">
+<a href="https://twitter.com/codewithus12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithus12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/code-with-us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-with-us" height="30" width="40" /></a>
+ 
+</p>
